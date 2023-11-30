@@ -11,8 +11,9 @@
 </h3>
 
 <p align="center">
-<a href="https://t.me/timur_teleg" target="blank"><img align="center" src="https://github.com/Timurandteam/Timurandteam/blob/main/img/telegram.svg" alt="Timurandteam" height="40" width="40" /></a>
-<a href="https://open.spotify.com/playlist/37i9dQZF1DX0Yxoavh5qJV?si=e2ce0798806a4399" target="blank"><img align="center" src="https://github.com/Timurandteam/Timurandteam/blob/main/img/spotify-2.svg" alt="Timurandteam" height="40" width="40" /></a>
+  <a href="https://t.me/timur_teleg" target="blank"><img align="center" src="https://github.com/Timurandteam/Timurandteam/blob/main/img/telegram.svg" alt="Timurandteam" height="40" width="40" /></a>
+  <a href="https://www.linkedin.com/in/qakunakbaev" target="blank"><img align="center" src="https://github.com/Timurandteam/Timurandteam/blob/main/img/LinkedIn.svg" alt="Timurandteam" height="40" widht="40" /></a>
+  <a href="https://open.spotify.com/playlist/37i9dQZF1DX0Yxoavh5qJV?si=e2ce0798806a4399" target="blank"><img align="center" src="https://github.com/Timurandteam/Timurandteam/blob/main/img/spotify-2.svg" alt="Timurandteam" height="40" width="40" /></a>
 </p>
 
 
