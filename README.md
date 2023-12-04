@@ -20,7 +20,7 @@
   Languages:
 </h3>
 <p align="center"> 
-  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/java-3.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/CSS3.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/HTML5.svg" alt="html5" width="40" height="40"/></a> 
   <a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/markdown-white.svg" alt="python" width="60" height="40"/></a> 
