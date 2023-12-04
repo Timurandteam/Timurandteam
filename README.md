@@ -20,7 +20,7 @@
   Languages:
 </h3>
 <p align="center"> 
- <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/java-3.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/java-3.svg" alt="c" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/CSS3.svg" alt="css3" width="40" height="40"/></a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/HTML5.svg" alt="html5" width="40" height="40"/></a> 
   <a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/markdown-white.svg" alt="python" width="60" height="40"/></a> 
@@ -31,10 +31,14 @@
 </h3>
 
 <p align="center">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/></a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/></a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/></a>
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/postman.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://www.atlassian.com/software/jira" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" alt="jira" width="40" height="40"/></a>
   <a href="https://www.jetbrains.com/ru-ru/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/intellij-idea-1.svg" alt="intellij" width="40" height="40"/></a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/git.svg" alt="git" width="40" height="40"/></a> 
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/></a> 
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/></a> 
 </p>
 
 <p align='center'>
