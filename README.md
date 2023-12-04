@@ -16,7 +16,26 @@
   <a href="https://open.spotify.com/playlist/37i9dQZF1DX0Yxoavh5qJV?si=e2ce0798806a4399" target="blank"><img align="center" src="https://github.com/Timurandteam/Timurandteam/blob/main/img/spotify-2.svg" alt="Timurandteam" height="40" width="40" /></a>
 </p>
 
+<h3 align='center'>
+  Languages:
+</h3>
+<p align="center"> 
+ <a href="https://www.java.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/java-3.svg" alt="c" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/CSS3.svg" alt="css3" width="40" height="40"/></a>
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/HTML5.svg" alt="html5" width="40" height="40"/></a> 
+  <a href="https://www.markdownguide.org/basic-syntax/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/markdown-white.svg" alt="python" width="60" height="40"/></a> 
+</p>
 
+<h3 align='center'>
+  Tools:
+</h3>
+
+<p align="center">
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/postman.svg" alt="postman" width="40" height="40"/></a>
+  <a href="https://www.jetbrains.com/ru-ru/idea/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/intellij-idea-1.svg" alt="intellij" width="40" height="40"/></a> 
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Timurandteam/Timurandteam/blob/main/img/git.svg" alt="git" width="40" height="40"/></a> 
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/daniilshat/daniilshat/2583381c09497c680369e95dce7e029d93484d94/icons/VS-code.svg" alt="git" width="40" height="40"/></a> 
+</p>
 
 <p align='center'>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Timurandteam&show_icons=true&count_private=true&theme=dark" width="350"></a>
