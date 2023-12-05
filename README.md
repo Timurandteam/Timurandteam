@@ -51,15 +51,22 @@
 <p align='center'>
 </p>
 
+<p align='center'>
+:incoming_envelope: How to reach me <a href='mailto:qakunakbaev@gmail.com'>qakunakbaev@gmail.com</a>
+</p>
+
+<details>
+  <summary> :memo: Сertificates</summary>
+  
+</details>
+
 
 
 <!--<p align='center'>
 - 🌍 I speak Russian (native), English (А1)
 </p>-->
 
-<p align='center'>
-:incoming_envelope: How to reach me <a href='mailto:qakunakbaev@gmail.com'>qakunakbaev@gmail.com</a>
-</p>
+
 
 
 
