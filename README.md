@@ -58,6 +58,19 @@
 <details>
   <summary> :memo: Сertificates</summary>
   
+   - [Software tester](https://github.com/Timurandteam/Timurandteam/blob/main/certificates/certificate%20Software%20tester.pdf)
+   
+   - [Automation testing](https://github.com/Timurandteam/Timurandteam/blob/main/certificates/certificate%20Automation%20Testing.pdf)
+   
+   - [JAVA for testers](https://github.com/Timurandteam/Timurandteam/blob/main/certificates/certificate%20Java%20for%20testers.pdf)
+   
+   - [GIT](https://github.com/Timurandteam/Timurandteam/blob/main/certificates/certificate%20GIT.pdf)
+   
+   - [Manual testing](https://github.com/Timurandteam/Timurandteam/blob/main/certificates/certificate%20Manual%20tester.pdf)
+   
+   - [Computer literacy](https://github.com/Timurandteam/Timurandteam/tree/main/certificates)
+   
+  
 </details>
 
 
